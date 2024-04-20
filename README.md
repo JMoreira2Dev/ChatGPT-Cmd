@@ -41,18 +41,17 @@ or
 
 #### Step 1: Log in OpenAI
 
-![Captura de tela de 2024-04-19 19-14-33](https://github.com/JMoreira2Dev/ChatGPT-Cmd/assets/167461650/98b555d5-dc91-45de-b341-f1e6dac3f43b)
+![Captura de tela de 2024-04-19 19-14-33](https://github.com/JMoreira2Dev/ChatGPT-Cmd/assets/167461650/30e4c3fe-e5a1-4fda-9bfe-fec25046fec1)
 
 Select `API`
 
 #### Step 2: Go into API keys
 
-![Captura de tela de 2024-04-19 19-12-29](https://github.com/JMoreira2Dev/ChatGPT-Cmd/assets/167461650/45394e7d-6109-41e0-8f47-45c8a82b5029)
+![Captura de tela de 2024-04-19 19-12-29](https://github.com/JMoreira2Dev/ChatGPT-Cmd/assets/167461650/ed973658-8463-4548-884b-eb0372c7f2c9)
 
 #### Step 3: Click on the Generate secret key button and save it:
 
-![Captura de tela de 2024-04-19 19-18-52](https://github.com/JMoreira2Dev/ChatGPT-Cmd/assets/167461650/84bbe656-6e11-4a6c-b2ec-7d497a80b7b6)
-
+![Captura de tela de 2024-04-19 19-18-52](https://github.com/JMoreira2Dev/ChatGPT-Cmd/assets/167461650/28ad0fa9-b693-48e3-8103-d4fb68559410)
 
 ## More info (Used Crates):
 
